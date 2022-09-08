@@ -108,7 +108,7 @@ Cada variable debe tener un nombre único llamado identificador. Eso es muy de a
 
 Los tipos de datos mas comunes o primitivos son:
 
-[![2](https://github.com/Fednico/Cursos-Python-Platzi/blob/main/Notas---Curso-basico-de-Python/img/2.png)
+![2](img/2.png)
 
 Tipos de datos en Python:
 
@@ -120,7 +120,7 @@ Tipos de datos en Python:
 - Boolean Type: bool
 - Binary Types: bytes, bytearray, memoryview
 
-[![3](https://github.com/Fednico/Cursos-Python-Platzi/blob/main/Notas---Curso-basico-de-Python/img/3.png)
+![3](img/3.png)
 
 ## Convertir un dato en un tipo diferente de dato
 
@@ -128,7 +128,7 @@ Tipos de datos en Python:
 - **int()** con datos o variables dentro de parentesis para convertirlo en número entero.
 - **str()** para convertir números tanto decimales como enteros a strings.
 
-[![4](https://raw.githubusercontent.com/hackmilo/Notas---Curso-b-sico-de-Python/main/img/4.png "4")](http://https://raw.githubusercontent.com/hackmilo/Notas---Curso-b-sico-de-Python/main/img/4.png "4")
+![4](img/4.png)
 
 ## Operadores lógicos y de comparación
 - **and** para comparar si dos valores son verdaderos.
@@ -141,9 +141,9 @@ Tipos de datos en Python:
 - **>=** igual o mayor que el valor a comparar.
 - **<=** igual o menor que el valor a comparar.
 
-[![5](https://github.com/hackmilo/Notas---Curso-b-sico-de-Python/blob/main/img/5.png?raw=true "5")](http://https://github.com/hackmilo/Notas---Curso-b-sico-de-Python/blob/main/img/5.png?raw=true "5")
+![5](img/5.png)
 
-[![6](https://raw.githubusercontent.com/hackmilo/Notas---Curso-b-sico-de-Python/main/img/6.png "6")](http://https://raw.githubusercontent.com/hackmilo/Notas---Curso-b-sico-de-Python/main/img/6.png "6")
+![6](img/6.png)
 
 ## Primer programa: Convertir moneda local a dólares
 Para el primer programa se hará un conversor de moneda local a dólares para esto se crea el archivo **conversor.py** y se abre por medio de **VS Code** para editarlo, primero declaramos la variable pesos que recibirá el valor en COP que el usuario quiere pasar a USD (Lo escrito despues de un **#** hace refencia a un comentario, no lo leerá el programa al ser ejecutado):
@@ -158,7 +158,7 @@ print("Tienes $" + dolares + " dólares")
 ```
 Al ejecutarlo en nuestra terminal **Cmder** utilizando el comando **py** y luego el nombre del achivo nos arroja los siguientes resultados:
 
-[![7](https://github.com/hackmilo/Notas---Curso-b-sico-de-Python/blob/main/img/7.png?raw=true "7")](http://https://github.com/hackmilo/Notas---Curso-b-sico-de-Python/blob/main/img/7.png?raw=true "7")
+![7](img/7.png)
 
 # Herramientas para programar
 
@@ -302,13 +302,13 @@ Algunas funciones que nos ayudan a trabajar con texto o cadenas de carácteres:
 - **variable[x]** Traer el carácter número x.
 - **len()** Cantidad de caracteres de la variable.
 
-[![9](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/9.png?raw=true "9")](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/9.png?raw=true "9")
+![9](img/9.png)
 
 ### Funciones Built-in
 
 El intérprete de Python tiene una serie de funciones y tipos incluidos en él que están siempre disponibles, solo requiere que las invoquemos. Están listados aquí en orden alfabético.
 
-[![10](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/10.png?raw=true "10")](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/10.png?raw=true "10")
+![10](img/10.png)
 
 ## Slices o rebanadas
 
@@ -317,7 +317,7 @@ El formato completo de la rebanada es: **[start : end : step]**, usualmente solo
 
 Ejemplo:
 
-[![11](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/11.png?raw=true "11")](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/11.png?raw=true "11")
+![11](img/11.png)
 
 ## Proyecto: palíndromo
 
@@ -353,7 +353,7 @@ if __name__ == "__main__": #Punto de entrada para correr run()
 
 Al ejecutarlo en la terminal se obtienen los siguientes resultados:
 
-[![12](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/12.png?raw=true "12")](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/12.png?raw=true "12")
+![12](img/12.png)
 
 # Bucles
 
@@ -381,7 +381,7 @@ if __name__ == "__main__":
 
 Al ejecutarlo en la terminal se obtienen los siguientes resultados:
 
-[![13](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/13.png?raw=true "13")](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/13.png?raw=true "13")
+![13](img/13.png)
 
 ## Ciclo for
 
@@ -407,7 +407,7 @@ for i in range(10):
     print(11 * i)
 ```
 
-[![14](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/14.png?raw=true "14")](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/14.png?raw=true "14")
+![14](img/14.png)
 
 ## Recorrer un string con un ciclo for
 
@@ -426,7 +426,7 @@ def run():
 if __name__ == "__main__":
     run()
 ```
-[![15](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/15.png?raw=true "15")](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/15.png?raw=true "15")
+![15](img/15.png)
 
 ## Interrumpiendo ciclos con comandos break y continue
 
@@ -458,21 +458,21 @@ if __name__ == "__main__":
 ```
 Primer bloque:
 
-[![16](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/16.png?raw=true "16")](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/16.png?raw=true "16")
+![16](img/16.png)
 
 Segundo bloque:
 
-[![17](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/17.png?raw=true "17")](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/17.png?raw=true "17")
+![17](img/17.png)
 
 Tercer bloque:
 
-[![18](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/18.png?raw=true "18")](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/18.png?raw=true "18")
+![18](img/18.png)
 
 ## Proyecto: Prueba de primalidad
 
 Los números primos son aquellos que solo son divisibles entre ellos mismos y el 1, es decir, que si intentamos dividirlos por cualquier otro número, el resultado no es entero. Dicho de otra forma, si haces la división por cualquier número que no sea 1 o él mismo, se obtiene un resto distinto de cero.
 
-[![19](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/19.png?raw=true "19")](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/19.png?raw=true "19")
+![19](img/19.png)
 
 Es necesario programar un código que verifique una entrada del usuario y realice la prueba si es o no un número primo:
 
@@ -501,7 +501,7 @@ if  __name__  == "__main__":
     run()
 ```
 
-[![20](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/20.png?raw=true "20")](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/20.png?raw=true "20")
+![20](img/20.png)
 
 ### Reto
 
@@ -536,7 +536,7 @@ if  __name__  == "__main__":
     run()
 ```
 
-[![21](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/21.png?raw=true "21")](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/21.png?raw=true "21")
+![21](img/21.png)
 
 ## Proyecto: Videojuego adivinar número
 
@@ -562,7 +562,7 @@ if __name__ == "__main__":
 
 Al ejecutarlo en la terminal se obtienen los siguientes resultados:
 
-[![22](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/22.png?raw=true "22")](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/22.png?raw=true "22")
+![22](img/22.png)
 
 # Estructuras de datos
 
@@ -592,9 +592,9 @@ Recorrer e imprimir:
 #Permite sumar y operar listas ya que son dinámicas
 
 ```
-[![23](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/23.png?raw=true "23")](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/23.png?raw=true "23")
+![23](img/23.png)
 
-[![24](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/24.png?raw=true "24")](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/24.png?raw=true "24")
+![24](img/24.png)
 
 ## Entendiendo cómo funcionan las tuplas 
 
@@ -615,7 +615,7 @@ for numero in mi_tupla:
 
 ```
 
-[![25](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/25.png?raw=true "25")](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/25.png?raw=true "25")
+![25](img/25.png)
 
 ## Diccionarios
 
@@ -662,7 +662,7 @@ if __name__ == "__main__":
     run()
 ```
 
-[![26](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/26.png?raw=true "26")](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/26.png?raw=true "26")
+![26](img/26.png)
 
 ## Proyecto final: generador de contraseñas
 
@@ -698,7 +698,7 @@ if __name__ == "__main__":
 
 Al ejecutarlo en la terminal se obtienen los siguientes resultados:
 
-[![27](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/27.png?raw=true "27")](https://github.com/hackmilo/Notas---Curso-basico-de-Python/blob/main/img/27.png?raw=true "27")
+![27](img/27.png)
 
 ## Bonus: Atajos
 - Link de atajos: [VS Code Atajos](https://filisantillan.com/blog/vscode-atajos/ "VS Code Atajos")
