@@ -106,7 +106,7 @@ Cada variable debe tener un nombre único llamado identificador. Eso es muy de a
 
 Los tipos de datos mas comunes o primitivos son:
 
-[![2](https://raw.githubusercontent.com/hackmilo/Notas---Curso-b-sico-de-Python/main/img/2.png "2")](http://https://raw.githubusercontent.com/hackmilo/Notas---Curso-b-sico-de-Python/main/img/2.png "2")
+[![2](https://github.com/Fednico/Cursos-Python-Platzi/blob/main/Notas---Curso-basico-de-Python/img/2.png)
 
 Tipos de datos en Python:
 
@@ -118,7 +118,7 @@ Tipos de datos en Python:
 - Boolean Type: bool
 - Binary Types: bytes, bytearray, memoryview
 
-[![3](https://raw.githubusercontent.com/hackmilo/Notas---Curso-b-sico-de-Python/main/img/3.png "3")](httphttps://raw.githubusercontent.com/hackmilo/Notas---Curso-b-sico-de-Python/main/img/3.png:// "3")
+[![3](https://github.com/Fednico/Cursos-Python-Platzi/blob/main/Notas---Curso-basico-de-Python/img/3.png)
 
 ## Convertir un dato en un tipo diferente de dato
 
