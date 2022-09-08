@@ -96,7 +96,7 @@ Dentro de nuestra terminal se inicializa Python con el comando **py** y se podr�
 - Cociente de una división: **//**
 - Residuo de una división: **%**
 
-[![img1](https://raw.githubusercontent.com/hackmilo/Notas---Curso-b-sico-de-Python/main/img/1.png)](https://raw.githubusercontent.com/hackmilo/Notas---Curso-b-sico-de-Python/main/img/1.png)
+[![img1](https://github.com/Fednico/Cursos-Python-Platzi/blob/main/Notas---Curso-basico-de-Python/img/1.png)
 
 ## Variables y Tipos de datos
 **Variable** hace referencia a un objeto que reside en la memoria. El objeto puede ser de alguno de los tipos vistos (número o cadena de texto), o alguno de los otros tipos existentes en Python.
