@@ -6,10 +6,12 @@ Profesor Facundo Garcia Martoni de Platzi.
 
 ## Tabla de Contenidos
 
+- [Notas - Curso básico de Python](#notas---curso-básico-de-python)
+  - [Tabla de Contenidos](#tabla-de-contenidos)
 - [Introducción](#introducción)
   - [¿Por qué Python?](#por-qué-python)
   - [¿Que es un algoritmo?](#que-es-un-algoritmo)
-  - [Herramientas de trabajo](#herramientas-de-trabajo) 
+  - [Herramientas de trabajo](#herramientas-de-trabajo)
 - [Conceptos básicos de Python](#conceptos-básicos-de-python)
   - [Explorando operadores aritméticos](#explorando-operadores-aritméticos)
   - [Variables y Tipos de datos](#variables-y-tipos-de-datos)
@@ -35,7 +37,7 @@ Profesor Facundo Garcia Martoni de Platzi.
   - [Proyecto: Videojuego adivinar número](#proyecto-videojuego-adivinar-número)
 - [Estructuras de datos](#estructuras-de-datos)
   - [Almacenar varios valores en una variable: listas](#almacenar-varios-valores-en-una-variable-listas)
-  - [Entendiendo cómo funcionan las tuplas ](#entendiendo-cómo-funcionan-las-tuplas)
+  - [Entendiendo cómo funcionan las tuplas](#entendiendo-cómo-funcionan-las-tuplas)
   - [Diccionarios](#diccionarios)
   - [Proyecto final: generador de contraseñas](#proyecto-final-generador-de-contraseñas)
   - [Bonus: Atajos](#bonus-atajos)
@@ -96,7 +98,7 @@ Dentro de nuestra terminal se inicializa Python con el comando **py** y se podr�
 - Cociente de una división: **//**
 - Residuo de una división: **%**
 
-[![img1](https://github.com/Fednico/Cursos-Python-Platzi/blob/main/Notas---Curso-basico-de-Python/img/1.png)
+![1](img/1.png)
 
 ## Variables y Tipos de datos
 **Variable** hace referencia a un objeto que reside en la memoria. El objeto puede ser de alguno de los tipos vistos (número o cadena de texto), o alguno de los otros tipos existentes en Python.
